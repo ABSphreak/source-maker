@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ABSphreak/source-maker">
-    <img alt="Source Maker Logo" src="/src/images/source-maker.png" width="70"/>
+    <img alt="Source Maker Logo" src="/src/images/source-maker.png" width="200"/>
   </a>
 </p>
 <h1 align="center">
